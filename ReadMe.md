@@ -58,13 +58,10 @@ Entrez localhost comme adresse IP.
 
 ## Comment jouer
 
-Le premier client à se connecter joue avec les X.
-
-Le second client joue avec les O.
-
-À votre tour, entrez les coordonnées sous la forme : ligne colonne (ex. 1 2).
-
-Le résultat de la partie s’affiche automatiquement à la fin.
+- Le premier client à se connecter joue avec les X.
+- Le second client joue avec les O.
+- À votre tour, entrez les coordonnées sous la forme : ligne colonne (ex. 1 2).
+- Le résultat de la partie s’affiche automatiquement à la fin.
 
 ## Commandes
 
@@ -76,11 +73,9 @@ Ctrl+C
 
 ## Personnalisation
 
-Vous pouvez modifier certains paramètres dans le fichier Shared/GameProtocol.cs :
-
-ServerPort : pour changer le port utilisé par le serveur
-
-Messages : pour ajouter de nouveaux types de messages et étendre les fonctionnalités
+- Vous pouvez modifier certains paramètres dans le fichier Shared/GameProtocol.cs :
+- ServerPort : pour changer le port utilisé par le serveur
+- Messages : pour ajouter de nouveaux types de messages et étendre les fonctionnalités
 
 ## Auteur
 
